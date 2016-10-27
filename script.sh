@@ -28,4 +28,6 @@ pkcon refresh
 
 pkcon install feature-jolla sailfish-content-configuration-jolla sailfish-content-graphics-jolla-z1.25 sailfish-content-apps-default-configs
 
+pkcon refresh
+
 touch /usr/share/ssu/board-mappings.d/10-l500d-jolla.ini
